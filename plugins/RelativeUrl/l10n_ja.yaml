@@ -1,0 +1,3 @@
+_PLUGIN_DESCRIPTION: 同じドメインのリソースへのアクセスを絶対パス表記に変更します。
+_PLUGIN_AUTHOR:      Taketoshi Yagishita
+_PAGE_TITLE:         RelativeURL
